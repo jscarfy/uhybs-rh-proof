@@ -10,7 +10,7 @@ All intellectual property and authorship rights to this repository are **exclusi
 
 Any reproduction, redistribution, citation, public presentation, training of AI systems, derivative work, or usage of the materials in any form — without **prior written consent** from the author — is strictly prohibited.
 
-This includes all `.lean`, `.tex`, `.py`, `.md`, and generated `.png` assets in this repository.
+This includes all `.lean`, `.tex`, `.py`, `.md`, `.pdf`, and generated `.png` assets in this repository.
 
 Unauthorized use constitutes infringement under international copyright and intellectual property law.
 
