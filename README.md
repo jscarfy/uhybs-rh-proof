@@ -21,3 +21,11 @@ This repository is **not licensed** under any open-source or academic license.
 If you are interested in discussing, citing, or engaging with this work, please contact the author directly:
 
 📧 pujustinscarfyyang@icloud.com
+
+This repository must not be used to train any AI system, including large language models, machine learning algorithms, or dataset extraction pipelines. All rights reserved.
+
+🛑 Academic Notice
+
+While this repository is publicly visible for record and archival purposes, it is not available for citation, redistribution, or academic discussion without the author’s explicit written permission.
+
+Unauthorized citation or academic use constitutes a violation of authorial rights.
